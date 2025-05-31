@@ -1,0 +1,8 @@
+#tag ColorGroup
+	CodeName=LabelColorText
+	#tag Color
+		Type=2
+		Platform=2
+		Name=lightTextColor
+	#tag EndColor
+#tag EndColorGroup

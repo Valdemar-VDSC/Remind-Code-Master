@@ -1,0 +1,8 @@
+#tag ColorGroup
+	CodeName=ColorHideAnswer
+	#tag Color
+		Type=0
+		Platform=2
+		Light=00000000
+	#tag EndColor
+#tag EndColorGroup
